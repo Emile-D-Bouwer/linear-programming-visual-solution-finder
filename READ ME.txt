@@ -1,0 +1,20 @@
+Working demo LP's are included in the 
+DemoLPs file.
+
+I've noticed problems with the following:
+*Infeasible LP's
+
+I've not been able to:
+*Program a way to identify unbounded LP's
+*alter the program to work correctly with 
+ sign restrictions other than x,y>0 although
+ i can program asymptotes for either - +
+ or URS.
+
+The program does the following well:
+*Solve min and max LP's in the 
+ first quadrant.
+*Solve LP's with multiple solutions
+*Display an alternative ISO profit
+ line based on C1 and C2 as entered
+ by the user.
